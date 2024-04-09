@@ -1,0 +1,17 @@
+body {
+  background-color: antiquewhite;
+}
+li {
+  margin-bottom: 10px;
+}
+
+li button {
+  font-size: 12px;
+  margin-left: 20px;
+  color: #666;
+}
+
+#enterNewItem {
+  color: blue;
+  font-size: larger;
+}
